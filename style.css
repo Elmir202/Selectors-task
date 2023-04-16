@@ -1,0 +1,32 @@
+body
+{
+    background-color: black;
+}
+h1
+{
+    color: rgb(255,100,0);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 13px;
+}
+p
+{
+    color:rgb(206, 202, 202)
+}
+h3
+{
+    color: white;
+}
+.date
+{
+    font-size: 1.8ex;
+    color: white;
+    opacity: 0.6;
+}
+div
+{
+    background-color: rgb(31, 30, 30);
+    margin: 10px;
+    padding: 20px;
+    border-radius: 8px;
+}
+div:hover{background-color: rgb(255,100,0)}
